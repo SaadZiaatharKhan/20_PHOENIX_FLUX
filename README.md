@@ -1,7 +1,7 @@
-# Senior Citizen Help Alert to Nearest Nurse
+# CareConnect
 
 ## Details 
-- Team : PHOENIX Flux
+- Team : PHOENIX FLUX
 - Team Number : 20
 - Team Members : Saad Khan, Ayan Shaikh, Shreyash Tambe, Sahil Pawade
 - Problem Statement : Senior citizen help alert to nearest nurse
@@ -70,9 +70,9 @@ This project provides an emergency alert system designed to assist senior citize
 
 ![Screenshot](2.png)
 
-![Screenshot](3.png)
-
 ![Screenshot](4.png)
+
+![Screenshot](3.png)
 
 ![Screenshot](5.png)
 
